@@ -1,0 +1,25 @@
+<head>
+</head>
+<body>
+		<div id="container">
+			{{>header}}
+
+			{{renderPage}}
+		</div>
+</body>
+
+<template name="page_home">
+	{{>tagline}}
+	{{>buttons}}
+	{{>slider}}
+	{{>docs}}
+</template>
+
+<template name="page_docs">
+	{{>tagline2}}
+	{{>doc_header}}
+	<div id="container2">
+	{{>doc_grid}}
+	{{>footer}}
+	</div>
+</template>

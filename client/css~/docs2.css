@@ -1,0 +1,20 @@
+.docs2 {
+width: 230px;
+height: 88px;
+background: url('../../images/load_sprite.png') 0 0 no-repeat;
+margin: 0 auto;
+cursor:pointer;
+color: #5d91b1; /* text color */
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+position: relative;
+left: -38px;
+
+line-height: 2.5;
+}
+.docs2:hover {
+height:88px;
+color:white;
+background: url('../../images/load_sprite.png') 0 -88px no-repeat;
+}

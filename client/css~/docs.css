@@ -1,0 +1,19 @@
+.docs {
+width: 230px;
+height: 73px;
+background: url('../../images/docs_sprite.png') 0 0 no-repeat;
+margin: 0 auto;
+cursor:pointer;
+color: #5d91b1; /* text color */
+font-size: 20px;
+font-weight: bold;
+
+padding-top: 14px;
+text-align: center;
+position: relative;
+bottom: 100px;
+}
+.docs:hover {
+height:74px;
+background: url('../../images/docs_sprite.png') 0 -87px no-repeat;
+}

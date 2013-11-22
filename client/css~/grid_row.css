@@ -1,0 +1,57 @@
+.grid_row {
+    height: 711px;
+	
+}
+.grid_row li {
+    float: left;
+	
+    margin-right: 40px;
+    padding-top: 18px;
+    margin-bottom: 25px;
+}
+.grid_row li.one {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_purple.png') no-repeat;
+}
+.grid_row li.two {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_green.png') no-repeat;
+}
+.grid_row li.three {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_orange.png') no-repeat;
+}
+.grid_row li.four {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_blue.png') no-repeat;
+}
+.grid_row li.five {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_p.png') no-repeat;
+}
+.grid_row li.six {
+width: 299px;
+height: 300px;
+background: url('../../images/doc_g.png') no-repeat;
+}
+
+li.tag_link {
+float:left;
+margin-right: 5px;
+}
+li.tag_icon {
+    margin-left: 16px;
+
+    margin-right: 10px;
+    margin-top: -7px;
+}
+
+#grid a, #grid a:link, #grid a:hover {
+color:#0088cc;
+font-size:13px;
+}

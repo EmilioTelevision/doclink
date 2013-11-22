@@ -1,0 +1,21 @@
+.tagline {
+width: 1050px;
+margin: 0 auto;
+position: relative;
+bottom: 147px;
+}
+.tagline h1 {
+color: #fff; /* text color */
+font-family: "Univers LT Std";
+font-size: 50px;
+text-shadow: 0 1px 0 #2e5771; /* drop shadow */
+position: relative;
+text-align: center;
+}
+.tagline h2 {
+color: #ffe67d; /* text color */
+font-family: "Univers LT Std";
+font-size: 30px;
+text-shadow: 0 1px 0 #2a5068; /* drop shadow */
+text-align: center;
+}

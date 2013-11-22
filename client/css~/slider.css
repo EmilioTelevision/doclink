@@ -1,0 +1,31 @@
+#slider {
+margin:0 auto;
+width: 1050px;
+position: relative;
+bottom: 95px;
+}
+.left {
+width: 125px;
+height: 107px;
+background: url('../../images/left.png') no-repeat;	
+float: left;
+position: relative;
+top: 186px;
+left: 161px;
+cursor:pointer;
+}
+.monitor {
+width: 988px;
+height: 361px;
+background: url('../../images/monitor.png') no-repeat;
+}
+.right {
+width: 125px;
+height: 107px;
+background: url('../../images/right.png') no-repeat;
+float: right;
+position: relative;
+top: -164px;
+right: 122px;
+cursor:pointer;
+}
